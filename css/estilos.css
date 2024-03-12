@@ -1,0 +1,171 @@
+.contenedor{
+    background-color: coral;
+    padding: 20px;
+    display: flex;
+    height: 900px;
+    flex-direction: row;
+    align-content: space-between;
+}
+.caja{
+    background-color: darkred;
+    color: white;
+    margin: 5px;
+    width: 150px;
+    height: 150px;
+}
+.caja1{
+    width: 500px;
+    margin: 20px;
+    background-color: red;
+    height: 890px;
+}
+div {
+    display: inline-block;
+}
+.subcaja1{
+    background-color: blue;
+    color: white;
+    margin: 20px;
+    width: 150px;
+    height: 400px;
+}
+.subcaja2{
+    background-color: blue;
+    color: white;
+    margin: 20px;
+    width: 150px;
+    height: 400px;
+}
+.subcaja3{
+    background-color: blue;
+    color: white;
+    margin: 20px;
+    width: 150px;
+    height: 400px;
+}
+.subcaja4{
+    background-color: blue;
+    color: white;
+    margin: 20px;
+    width: 150px;
+    height: 400px;
+}
+.caja2{
+    width: 900px;
+    margin: 20px;
+    background-color: yellow;
+    order: 4;
+    height: 730px;
+}
+.subbcaja1{
+    background-color: blueviolet;
+    color: white;
+    margin: 20px;
+    width: 190px;
+    height: 200px;
+}
+.subbcaja2{
+    background-color: blueviolet;
+    color: white;
+    margin: 20px;
+    width: 190px;
+    height: 200px;
+}
+.subbcaja3{
+    background-color: blueviolet;
+    color: white;
+    margin: 20px;
+    width: 190px;
+    height: 200px;
+}
+.subbcaja4{
+    background-color: blueviolet;
+    color: white;
+    margin: 20px;
+    width: 190px;
+    height: 200px;
+}
+.subbcaja5{
+    background-color: blueviolet;
+    color: white;
+    margin: 20px;
+    width: 190px;
+    height: 200px;
+}
+.subbcaja6{
+    background-color: blueviolet;
+    color: white;
+    margin: 20px;
+    width: 190px;
+    height: 200px;
+}
+.subbcaja7{
+    background-color: blueviolet;
+    color: white;
+    margin: 20px;
+    width: 190px;
+    height: 200px;
+}
+.subbcaja8{
+    background-color: blueviolet;
+    color: white;
+    margin: 20px;
+    width: 190px;
+    height: 200px;
+}
+.subbcaja9{
+    background-color: blueviolet;
+    color: white;
+    margin: 20px;
+    width: 190px;
+    height: 200px;
+}
+.caja3{
+    width: 500px;
+    margin: 20px;
+    background-color: green;
+    order: 4;
+    height: 890px;
+}
+.subbbcaja1{
+    background-color: pink;
+    color: white;
+    margin: 20px;
+    width: 350px;
+    height: 70px;
+}
+.subbbcaja2{
+    background-color: pink;
+    color: white;
+    margin: 45px;
+    width: 100px;
+    height: 250px;
+}
+.subbbcaja3{
+    background-color: pink;
+    color: white;
+    margin: 45px;
+    width: 100px;
+    height: 250px;
+}
+.subbbcaja4{
+    background-color: pink;
+    color: white;
+    margin: 20px;
+    width: 350px;
+    height: 70px;
+}
+.subbbcaja5{
+    background-color: pink;
+    color: white;
+    margin: 45px;
+    width: 100px;
+    height: 250px;
+}
+.subbbcaja6{
+    background-color: pink;
+    color: white;
+    margin: 45px;
+    width: 100px;
+    height: 250px;
+}
